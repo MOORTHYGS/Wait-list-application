@@ -1,5 +1,16 @@
 # Wait-list-application
 # Waiting_list_
+1. download and install Nodejs
+2. install npm
+3. Using VS code Terminal create reactt app
+4. edit app.js for login and signup 
+5. after that insatll socket.io for the server connection
+6. for registration Database connection
+7. install mangodb
+8. install express
+9. make the connection
+
+ALL OTHER PROCESS
 This app allows a potential customer to sign up to the waiting list 
 with his email address.
 Intilly the user can view the login page 
