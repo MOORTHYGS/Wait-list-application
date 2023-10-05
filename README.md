@@ -49,7 +49,7 @@ user_position=user_position[]-1;
 
 oncce  the user reachs position 1
 he will get an coupon code to purchase the new product.
-![Uploading Screenshot 2023-10-05 170714.png…]()
+
 
 
 
