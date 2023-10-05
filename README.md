@@ -27,6 +27,10 @@ with the requuired fild
   As soon as he signs up, his position in the waiting list will be 
 displayed.As soon as he signs up, his position in the waiting list will be 
 displayed.
+
+
+
+
 - If their friends sign up using his referral link, he will “move up 1” by 1 
 place in his position
 For that initially the user position is 99 which is stored
@@ -45,6 +49,9 @@ user_position=user_position[]-1;
 
 oncce  the user reachs position 1
 he will get an coupon code to purchase the new product.
+![Uploading Screenshot 2023-10-05 170714.png…]()
+
+
 
 
 
